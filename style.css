@@ -1,0 +1,55 @@
+.box-1 {
+  background-color: black;
+  width: 200px;
+  height: 50px;
+
+  display: flex;
+}
+
+.text-1 {
+  color: white;
+}
+
+.box-2 {
+  background-color: silver;
+  width: 200px;
+  height: 20px;
+
+  display: flex;
+}
+
+.text-2 {
+  color: white;
+}
+
+.box-3 {
+  background-color: slategray;
+  width: 100px;
+  height: 150px;
+}
+
+.text-3 {
+  color: white;
+}
+
+.box-4 {
+  background-color: silver;
+  width: 100px;
+  height: 150px;
+}
+
+.text-4 {
+  color: white;
+}
+
+.box-5 {
+  background-color: black;
+  width: 200px;
+  height: 50px;
+
+  display: flex;
+}
+
+.text-5 {
+  color: white;
+}
